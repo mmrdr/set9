@@ -120,6 +120,7 @@ public:
     }
     
     int charAt(const string &s, int d) {
+        count++;
         return d < s.length() ? s[d] : -1;
     }
 };
@@ -262,17 +263,18 @@ private:
         if (arr.size() <= 1) {
             return;
         }
-  
+
         vector<vector<string>> buckets(257);
         for (const auto& s : arr) {
-            if (pos >= s.length()) {
+            int c = counter.charAt(s, pos);
+            if (c == -1) {
                 buckets[0].push_back(s);
             } else {
-                unsigned char c = s[pos];
                 buckets[c + 1].push_back(s);
             }
+        
         }
-  
+
         arr.clear();
         for (int i = 0; i < 257; ++i) {
             if (!buckets[i].empty()) {
