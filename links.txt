@@ -1,0 +1,5 @@
+string merge sort: 321232625
+string quick sort: 321234240
+msd radix sort: 321238895
+hybrid radix + quick sort: 321237281
+github: https://github.com/mmrdr/set9
