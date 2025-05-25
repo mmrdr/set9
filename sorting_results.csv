@@ -1,721 +1,721 @@
 Algorithm,DataType,DataSize,ExecutionTime(ms),Comparisons
-Standard QuickSort,Random,100,0.074625,545
-Standard QuickSort,ReverseSorted,100,0.069083,514
-Standard QuickSort,NearlySorted,100,0.058917,480
-Standard QuickSort,CommonPrefix,100,0.088791,700
-Standard MergeSort,Random,100,0.276750,542
-Standard MergeSort,ReverseSorted,100,0.205541,316
-Standard MergeSort,NearlySorted,100,0.175542,356
-Standard MergeSort,CommonPrefix,100,0.314750,552
-String QuickSort,Random,100,0.049709,0
-String QuickSort,ReverseSorted,100,0.085125,0
-String QuickSort,NearlySorted,100,0.052708,0
-String QuickSort,CommonPrefix,100,0.075750,0
-String MergeSort with LCP,Random,100,0.364083,601
-String MergeSort with LCP,ReverseSorted,100,0.327209,588
-String MergeSort with LCP,NearlySorted,100,0.300083,659
-String MergeSort with LCP,CommonPrefix,100,0.582667,6677
-MSD Radix Sort,Random,100,0.510083,0
-MSD Radix Sort,ReverseSorted,100,0.363083,0
-MSD Radix Sort,NearlySorted,100,0.319500,0
-MSD Radix Sort,CommonPrefix,100,1.205792,0
-Hybrid MSD Radix Sort,Random,100,0.047500,0
-Hybrid MSD Radix Sort,ReverseSorted,100,0.136250,0
-Hybrid MSD Radix Sort,NearlySorted,100,0.078958,0
-Hybrid MSD Radix Sort,CommonPrefix,100,0.968125,0
-Standard QuickSort,Random,200,0.187584,1544
-Standard QuickSort,ReverseSorted,200,0.151625,1225
-Standard QuickSort,NearlySorted,200,0.136833,1156
-Standard QuickSort,CommonPrefix,200,0.192042,1700
-Standard MergeSort,Random,200,0.527875,1285
-Standard MergeSort,ReverseSorted,200,0.446125,732
-Standard MergeSort,NearlySorted,200,0.404541,854
-Standard MergeSort,CommonPrefix,200,0.674416,1288
-String QuickSort,Random,200,0.120875,0
-String QuickSort,ReverseSorted,200,0.182083,0
-String QuickSort,NearlySorted,200,0.117583,0
-String QuickSort,CommonPrefix,200,0.171792,0
-String MergeSort with LCP,Random,200,0.789542,1488
-String MergeSort with LCP,ReverseSorted,200,0.724000,1298
-String MergeSort with LCP,NearlySorted,200,0.686417,1497
-String MergeSort with LCP,CommonPrefix,200,1.336125,15669
-MSD Radix Sort,Random,200,0.957958,0
-MSD Radix Sort,ReverseSorted,200,0.759375,0
-MSD Radix Sort,NearlySorted,200,0.743167,0
-MSD Radix Sort,CommonPrefix,200,2.458084,0
-Hybrid MSD Radix Sort,Random,200,0.094250,0
-Hybrid MSD Radix Sort,ReverseSorted,200,0.275500,0
-Hybrid MSD Radix Sort,NearlySorted,200,0.149416,0
-Hybrid MSD Radix Sort,CommonPrefix,200,2.482917,0
-Standard QuickSort,Random,300,0.287625,2429
-Standard QuickSort,ReverseSorted,300,0.242792,1996
-Standard QuickSort,NearlySorted,300,0.216542,1911
-Standard QuickSort,CommonPrefix,300,0.284666,2396
-Standard MergeSort,Random,300,0.818625,2101
-Standard MergeSort,ReverseSorted,300,0.697333,1180
-Standard MergeSort,NearlySorted,300,0.674292,1484
-Standard MergeSort,CommonPrefix,300,1.136959,2104
-String QuickSort,Random,300,0.194417,0
-String QuickSort,ReverseSorted,300,0.337625,0
-String QuickSort,NearlySorted,300,0.203250,0
-String QuickSort,CommonPrefix,300,0.269791,0
-String MergeSort with LCP,Random,300,1.229375,2509
-String MergeSort with LCP,ReverseSorted,300,1.086417,2033
-String MergeSort with LCP,NearlySorted,300,1.324125,2412
-String MergeSort with LCP,CommonPrefix,300,2.415667,25677
-MSD Radix Sort,Random,300,1.238500,0
-MSD Radix Sort,ReverseSorted,300,1.062000,0
-MSD Radix Sort,NearlySorted,300,1.038583,0
-MSD Radix Sort,CommonPrefix,300,3.116000,0
-Hybrid MSD Radix Sort,Random,300,0.144459,0
-Hybrid MSD Radix Sort,ReverseSorted,300,0.411750,0
-Hybrid MSD Radix Sort,NearlySorted,300,0.225416,0
-Hybrid MSD Radix Sort,CommonPrefix,300,3.726167,0
-Standard QuickSort,Random,400,0.393042,3413
-Standard QuickSort,ReverseSorted,400,0.339125,2856
-Standard QuickSort,NearlySorted,400,0.307667,2731
-Standard QuickSort,CommonPrefix,400,0.564333,4181
-Standard MergeSort,Random,400,1.161250,2967
-Standard MergeSort,ReverseSorted,400,0.958750,1664
-Standard MergeSort,NearlySorted,400,0.947333,2212
-Standard MergeSort,CommonPrefix,400,1.595042,2972
-String QuickSort,Random,400,0.286541,0
-String QuickSort,ReverseSorted,400,0.456917,0
-String QuickSort,NearlySorted,400,0.310667,0
-String QuickSort,CommonPrefix,400,0.359167,0
-String MergeSort with LCP,Random,400,1.731000,3628
-String MergeSort with LCP,ReverseSorted,400,1.941459,2834
-String MergeSort with LCP,NearlySorted,400,1.878417,3513
-String MergeSort with LCP,CommonPrefix,400,3.030834,36358
-MSD Radix Sort,Random,400,1.668084,0
-MSD Radix Sort,ReverseSorted,400,1.550583,0
-MSD Radix Sort,NearlySorted,400,1.574209,0
-MSD Radix Sort,CommonPrefix,400,3.918875,0
-Hybrid MSD Radix Sort,Random,400,0.198667,0
-Hybrid MSD Radix Sort,ReverseSorted,400,0.544583,0
-Hybrid MSD Radix Sort,NearlySorted,400,0.300709,0
-Hybrid MSD Radix Sort,CommonPrefix,400,5.617416,0
-Standard QuickSort,Random,500,1.625375,4299
-Standard QuickSort,ReverseSorted,500,0.455667,3696
-Standard QuickSort,NearlySorted,500,0.409083,3561
-Standard QuickSort,CommonPrefix,500,0.577125,4846
-Standard MergeSort,Random,500,1.449500,3874
-Standard MergeSort,ReverseSorted,500,1.256167,2216
-Standard MergeSort,NearlySorted,500,1.251625,2917
-Standard MergeSort,CommonPrefix,500,2.086833,3869
-String QuickSort,Random,500,0.390375,0
-String QuickSort,ReverseSorted,500,0.561666,0
-String QuickSort,NearlySorted,500,0.441208,0
-String QuickSort,CommonPrefix,500,0.465875,0
-String MergeSort with LCP,Random,500,2.270417,4834
-String MergeSort with LCP,ReverseSorted,500,2.137834,3734
-String MergeSort with LCP,NearlySorted,500,2.118292,4502
-String MergeSort with LCP,CommonPrefix,500,3.933042,47404
-MSD Radix Sort,Random,500,1.751000,0
-MSD Radix Sort,ReverseSorted,500,1.837417,0
-MSD Radix Sort,NearlySorted,500,1.779083,0
-MSD Radix Sort,CommonPrefix,500,5.049542,0
-Hybrid MSD Radix Sort,Random,500,0.320166,0
-Hybrid MSD Radix Sort,ReverseSorted,500,0.705667,0
-Hybrid MSD Radix Sort,NearlySorted,500,0.378875,0
-Hybrid MSD Radix Sort,CommonPrefix,500,6.268167,0
-Standard QuickSort,Random,600,0.757792,6672
-Standard QuickSort,ReverseSorted,600,0.567667,4568
-Standard QuickSort,NearlySorted,600,0.500333,4433
-Standard QuickSort,CommonPrefix,600,0.700000,5990
-Standard MergeSort,Random,600,1.830292,4799
-Standard MergeSort,ReverseSorted,600,1.640791,2660
-Standard MergeSort,NearlySorted,600,1.671417,3725
-Standard MergeSort,CommonPrefix,600,2.825875,4814
-String QuickSort,Random,600,0.489334,0
-String QuickSort,ReverseSorted,600,0.776458,0
-String QuickSort,NearlySorted,600,0.575583,0
-String QuickSort,CommonPrefix,600,0.859667,0
-String MergeSort with LCP,Random,600,3.461292,6065
-String MergeSort with LCP,ReverseSorted,600,2.807000,4433
-String MergeSort with LCP,NearlySorted,600,2.936000,5629
-String MergeSort with LCP,CommonPrefix,600,5.614291,59080
-MSD Radix Sort,Random,600,2.196167,0
-MSD Radix Sort,ReverseSorted,600,2.511292,0
-MSD Radix Sort,NearlySorted,600,2.436833,0
-MSD Radix Sort,CommonPrefix,600,5.934541,0
-Hybrid MSD Radix Sort,Random,600,0.352542,0
-Hybrid MSD Radix Sort,ReverseSorted,600,0.787625,0
-Hybrid MSD Radix Sort,NearlySorted,600,0.455042,0
-Hybrid MSD Radix Sort,CommonPrefix,600,8.749084,0
-Standard QuickSort,Random,700,0.773042,6526
-Standard QuickSort,ReverseSorted,700,0.934750,5584
-Standard QuickSort,NearlySorted,700,0.602958,5332
-Standard QuickSort,CommonPrefix,700,0.841208,7595
-Standard MergeSort,Random,700,2.289542,5755
-Standard MergeSort,ReverseSorted,700,1.891792,3172
-Standard MergeSort,NearlySorted,700,1.802167,4467
-Standard MergeSort,CommonPrefix,700,3.030000,5777
-String QuickSort,Random,700,0.537291,0
-String QuickSort,ReverseSorted,700,0.890209,0
-String QuickSort,NearlySorted,700,0.714000,0
-String QuickSort,CommonPrefix,700,0.687250,0
-String MergeSort with LCP,Random,700,3.864792,7385
-String MergeSort with LCP,ReverseSorted,700,2.885500,5242
-String MergeSort with LCP,NearlySorted,700,2.832333,6768
-String MergeSort with LCP,CommonPrefix,700,5.923708,70987
-MSD Radix Sort,Random,700,2.981042,0
-MSD Radix Sort,ReverseSorted,700,3.152750,0
-MSD Radix Sort,NearlySorted,700,2.416125,0
-MSD Radix Sort,CommonPrefix,700,6.255666,0
-Hybrid MSD Radix Sort,Random,700,0.397125,0
-Hybrid MSD Radix Sort,ReverseSorted,700,0.906458,0
-Hybrid MSD Radix Sort,NearlySorted,700,0.534083,0
-Hybrid MSD Radix Sort,CommonPrefix,700,10.907917,0
-Standard QuickSort,Random,800,0.964750,8400
-Standard QuickSort,ReverseSorted,800,0.746042,6525
-Standard QuickSort,NearlySorted,800,0.691958,6241
-Standard QuickSort,CommonPrefix,800,1.053208,9219
-Standard MergeSort,Random,800,2.663959,6716
-Standard MergeSort,ReverseSorted,800,2.149542,3728
-Standard MergeSort,NearlySorted,800,2.048958,4946
-Standard MergeSort,CommonPrefix,800,3.584916,6754
-String QuickSort,Random,800,0.597875,0
-String QuickSort,ReverseSorted,800,1.099250,0
-String QuickSort,NearlySorted,800,0.883375,0
-String QuickSort,CommonPrefix,800,0.782083,0
-String MergeSort with LCP,Random,800,3.643334,8723
-String MergeSort with LCP,ReverseSorted,800,3.383375,6054
-String MergeSort with LCP,NearlySorted,800,3.262458,7604
-String MergeSort with LCP,CommonPrefix,800,6.686417,83087
-MSD Radix Sort,Random,800,2.525667,0
-MSD Radix Sort,ReverseSorted,800,3.068750,0
-MSD Radix Sort,NearlySorted,800,2.796083,0
-MSD Radix Sort,CommonPrefix,800,7.312083,0
-Hybrid MSD Radix Sort,Random,800,0.445500,0
-Hybrid MSD Radix Sort,ReverseSorted,800,1.101125,0
-Hybrid MSD Radix Sort,NearlySorted,800,0.614875,0
-Hybrid MSD Radix Sort,CommonPrefix,800,6.685875,0
-Standard QuickSort,Random,900,1.135875,9897
-Standard QuickSort,ReverseSorted,900,0.837583,7446
-Standard QuickSort,NearlySorted,900,0.784334,7174
-Standard QuickSort,CommonPrefix,900,1.011583,8446
-Standard MergeSort,Random,900,2.912875,7717
-Standard MergeSort,ReverseSorted,900,2.387291,4304
-Standard MergeSort,NearlySorted,900,2.465542,5670
-Standard MergeSort,CommonPrefix,900,3.870250,7743
-String QuickSort,Random,900,0.718584,0
-String QuickSort,ReverseSorted,900,1.289250,0
-String QuickSort,NearlySorted,900,1.096959,0
-String QuickSort,CommonPrefix,900,0.903084,0
-String MergeSort with LCP,Random,900,4.188958,10140
-String MergeSort with LCP,ReverseSorted,900,3.801250,6996
-String MergeSort with LCP,NearlySorted,900,3.749292,8605
-String MergeSort with LCP,CommonPrefix,900,7.864291,95354
-MSD Radix Sort,Random,900,2.836584,0
-MSD Radix Sort,ReverseSorted,900,3.433125,0
-MSD Radix Sort,NearlySorted,900,3.201833,0
-MSD Radix Sort,CommonPrefix,900,8.208833,0
-Hybrid MSD Radix Sort,Random,900,0.497542,0
-Hybrid MSD Radix Sort,ReverseSorted,900,1.175208,0
-Hybrid MSD Radix Sort,NearlySorted,900,0.701708,0
-Hybrid MSD Radix Sort,CommonPrefix,900,10.426542,0
-Standard QuickSort,Random,1000,1.158958,10017
-Standard QuickSort,ReverseSorted,1000,0.966667,8406
-Standard QuickSort,NearlySorted,1000,0.885833,8087
-Standard QuickSort,CommonPrefix,1000,1.135917,10040
-Standard MergeSort,Random,1000,3.107958,8724
-Standard MergeSort,ReverseSorted,1000,2.610625,4932
-Standard MergeSort,NearlySorted,1000,2.897416,6665
-Standard MergeSort,CommonPrefix,1000,4.481125,8742
-String QuickSort,Random,1000,0.755792,0
-String QuickSort,ReverseSorted,1000,1.679833,0
-String QuickSort,NearlySorted,1000,1.290833,0
-String QuickSort,CommonPrefix,1000,1.010125,0
-String MergeSort with LCP,Random,1000,4.606750,11579
-String MergeSort with LCP,ReverseSorted,1000,4.071750,8011
-String MergeSort with LCP,NearlySorted,1000,4.226625,9950
-String MergeSort with LCP,CommonPrefix,1000,8.540458,107769
-MSD Radix Sort,Random,1000,3.136791,0
-MSD Radix Sort,ReverseSorted,1000,3.752417,0
-MSD Radix Sort,NearlySorted,1000,3.577375,0
-MSD Radix Sort,CommonPrefix,1000,9.036917,0
-Hybrid MSD Radix Sort,Random,1000,0.572125,0
-Hybrid MSD Radix Sort,ReverseSorted,1000,1.334417,0
-Hybrid MSD Radix Sort,NearlySorted,1000,0.770834,0
-Hybrid MSD Radix Sort,CommonPrefix,1000,10.439166,0
-Standard QuickSort,Random,1100,1.466084,13890
-Standard QuickSort,ReverseSorted,1100,1.043917,9409
-Standard QuickSort,NearlySorted,1100,1.014541,9094
-Standard QuickSort,CommonPrefix,1100,1.310250,11950
-Standard MergeSort,Random,1100,3.591667,9765
-Standard MergeSort,ReverseSorted,1100,2.916292,5420
-Standard MergeSort,NearlySorted,1100,2.973375,7791
-Standard MergeSort,CommonPrefix,1100,4.806958,9779
-String QuickSort,Random,1100,0.952625,0
-String QuickSort,ReverseSorted,1100,1.791125,0
-String QuickSort,NearlySorted,1100,1.508250,0
-String QuickSort,CommonPrefix,1100,1.084083,0
-String MergeSort with LCP,Random,1100,5.171458,13020
-String MergeSort with LCP,ReverseSorted,1100,4.482709,8713
-String MergeSort with LCP,NearlySorted,1100,4.719375,11511
-String MergeSort with LCP,CommonPrefix,1100,10.005000,120642
-MSD Radix Sort,Random,1100,3.502875,0
-MSD Radix Sort,ReverseSorted,1100,4.076666,0
-MSD Radix Sort,NearlySorted,1100,3.948750,0
-MSD Radix Sort,CommonPrefix,1100,9.875083,0
-Hybrid MSD Radix Sort,Random,1100,0.630708,0
-Hybrid MSD Radix Sort,ReverseSorted,1100,1.420375,0
-Hybrid MSD Radix Sort,NearlySorted,1100,0.843375,0
-Hybrid MSD Radix Sort,CommonPrefix,1100,16.292958,0
-Standard QuickSort,Random,1200,1.563500,13876
-Standard QuickSort,ReverseSorted,1200,1.157417,10329
-Standard QuickSort,NearlySorted,1200,1.077208,10095
-Standard QuickSort,CommonPrefix,1200,1.415083,12646
-Standard MergeSort,Random,1200,3.895750,10791
-Standard MergeSort,ReverseSorted,1200,3.410167,5920
-Standard MergeSort,NearlySorted,1200,3.283584,8515
-Standard MergeSort,CommonPrefix,1200,5.294000,10820
-String QuickSort,Random,1200,0.964500,0
-String QuickSort,ReverseSorted,1200,2.073458,0
-String QuickSort,NearlySorted,1200,1.749042,0
-String QuickSort,CommonPrefix,1200,1.252667,0
-String MergeSort with LCP,Random,1200,5.689417,14481
-String MergeSort with LCP,ReverseSorted,1200,4.919125,9457
-String MergeSort with LCP,NearlySorted,1200,5.184167,12497
-String MergeSort with LCP,CommonPrefix,1200,10.535000,133572
-MSD Radix Sort,Random,1200,3.819583,0
-MSD Radix Sort,ReverseSorted,1200,4.450166,0
-MSD Radix Sort,NearlySorted,1200,4.275792,0
-MSD Radix Sort,CommonPrefix,1200,11.221083,0
-Hybrid MSD Radix Sort,Random,1200,0.712125,0
-Hybrid MSD Radix Sort,ReverseSorted,1200,1.542208,0
-Hybrid MSD Radix Sort,NearlySorted,1200,0.921083,0
-Hybrid MSD Radix Sort,CommonPrefix,1200,11.935042,0
-Standard QuickSort,Random,1300,1.710959,16017
-Standard QuickSort,ReverseSorted,1300,1.304083,11522
-Standard QuickSort,NearlySorted,1300,1.183667,11092
-Standard QuickSort,CommonPrefix,1300,1.676959,14906
-Standard MergeSort,Random,1300,4.507500,11837
-Standard MergeSort,ReverseSorted,1300,3.579000,6480
-Standard MergeSort,NearlySorted,1300,3.582083,9513
-Standard MergeSort,CommonPrefix,1300,5.885250,11825
-String QuickSort,Random,1300,1.073875,0
-String QuickSort,ReverseSorted,1300,2.380292,0
-String QuickSort,NearlySorted,1300,2.031000,0
-String QuickSort,CommonPrefix,1300,1.342791,0
-String MergeSort with LCP,Random,1300,6.222292,16011
-String MergeSort with LCP,ReverseSorted,1300,5.387458,10282
-String MergeSort with LCP,NearlySorted,1300,5.613667,13919
-String MergeSort with LCP,CommonPrefix,1300,11.479833,146130
-MSD Radix Sort,Random,1300,4.144500,0
-MSD Radix Sort,ReverseSorted,1300,4.887958,0
-MSD Radix Sort,NearlySorted,1300,4.684959,0
-MSD Radix Sort,CommonPrefix,1300,12.237208,0
-Hybrid MSD Radix Sort,Random,1300,0.782083,0
-Hybrid MSD Radix Sort,ReverseSorted,1300,1.681917,0
-Hybrid MSD Radix Sort,NearlySorted,1300,1.007042,0
-Hybrid MSD Radix Sort,CommonPrefix,1300,19.332417,0
-Standard QuickSort,Random,1400,1.817584,16724
-Standard QuickSort,ReverseSorted,1400,1.393666,12517
-Standard QuickSort,NearlySorted,1400,1.324667,12116
-Standard QuickSort,CommonPrefix,1400,1.999875,15406
-Standard MergeSort,Random,1400,4.537583,12888
-Standard MergeSort,ReverseSorted,1400,3.919917,7044
-Standard MergeSort,NearlySorted,1400,3.861083,10271
-Standard MergeSort,CommonPrefix,1400,6.489375,12928
-String QuickSort,Random,1400,1.189500,0
-String QuickSort,ReverseSorted,1400,2.647250,0
-String QuickSort,NearlySorted,1400,2.304333,0
-String QuickSort,CommonPrefix,1400,1.453917,0
-String MergeSort with LCP,Random,1400,6.810291,17550
-String MergeSort with LCP,ReverseSorted,1400,5.771083,11126
-String MergeSort with LCP,NearlySorted,1400,5.985833,14974
-String MergeSort with LCP,CommonPrefix,1400,12.516542,159819
-MSD Radix Sort,Random,1400,4.494084,0
-MSD Radix Sort,ReverseSorted,1400,5.258584,0
-MSD Radix Sort,NearlySorted,1400,5.088500,0
-MSD Radix Sort,CommonPrefix,1400,13.315375,0
-Hybrid MSD Radix Sort,Random,1400,0.848500,0
-Hybrid MSD Radix Sort,ReverseSorted,1400,1.816458,0
-Hybrid MSD Radix Sort,NearlySorted,1400,1.071042,0
-Hybrid MSD Radix Sort,CommonPrefix,1400,14.159458,0
-Standard QuickSort,Random,1500,2.045541,18474
-Standard QuickSort,ReverseSorted,1500,1.533125,13601
-Standard QuickSort,NearlySorted,1500,1.405917,13093
-Standard QuickSort,CommonPrefix,1500,1.945875,16892
-Standard MergeSort,Random,1500,5.446417,13949
-Standard MergeSort,ReverseSorted,1500,4.126500,7664
-Standard MergeSort,NearlySorted,1500,4.196416,11040
-Standard MergeSort,CommonPrefix,1500,7.260709,13974
-String QuickSort,Random,1500,1.209084,0
-String QuickSort,ReverseSorted,1500,3.051375,0
-String QuickSort,NearlySorted,1500,2.607000,0
-String QuickSort,CommonPrefix,1500,1.537708,0
-String MergeSort with LCP,Random,1500,7.386000,19055
-String MergeSort with LCP,ReverseSorted,1500,6.235791,12126
-String MergeSort with LCP,NearlySorted,1500,6.461584,16228
-String MergeSort with LCP,CommonPrefix,1500,13.928041,172887
-MSD Radix Sort,Random,1500,4.822167,0
-MSD Radix Sort,ReverseSorted,1500,5.732208,0
-MSD Radix Sort,NearlySorted,1500,5.406167,0
-MSD Radix Sort,CommonPrefix,1500,14.095333,0
-Hybrid MSD Radix Sort,Random,1500,0.905208,0
-Hybrid MSD Radix Sort,ReverseSorted,1500,1.965500,0
-Hybrid MSD Radix Sort,NearlySorted,1500,1.153250,0
-Hybrid MSD Radix Sort,CommonPrefix,1500,20.672959,0
-Standard QuickSort,Random,1600,2.015084,18068
-Standard QuickSort,ReverseSorted,1600,1.637459,14659
-Standard QuickSort,NearlySorted,1600,1.547709,14222
-Standard QuickSort,CommonPrefix,1600,2.253625,18748
-Standard MergeSort,Random,1600,5.304375,15041
-Standard MergeSort,ReverseSorted,1600,4.367875,8256
-Standard MergeSort,NearlySorted,1600,4.473667,11881
-Standard MergeSort,CommonPrefix,1600,7.924250,15055
-String QuickSort,Random,1600,1.304875,0
-String QuickSort,ReverseSorted,1600,3.279292,0
-String QuickSort,NearlySorted,1600,2.934375,0
-String QuickSort,CommonPrefix,1600,1.781167,0
-String MergeSort with LCP,Random,1600,7.800416,20653
-String MergeSort with LCP,ReverseSorted,1600,6.610833,12976
-String MergeSort with LCP,NearlySorted,1600,7.265083,17347
-String MergeSort with LCP,CommonPrefix,1600,14.762917,186327
-MSD Radix Sort,Random,1600,5.216208,0
-MSD Radix Sort,ReverseSorted,1600,6.086584,0
-MSD Radix Sort,NearlySorted,1600,5.849541,0
-MSD Radix Sort,CommonPrefix,1600,14.901166,0
-Hybrid MSD Radix Sort,Random,1600,1.014625,0
-Hybrid MSD Radix Sort,ReverseSorted,1600,2.064375,0
-Hybrid MSD Radix Sort,NearlySorted,1600,1.221750,0
-Hybrid MSD Radix Sort,CommonPrefix,1600,16.437208,0
-Standard QuickSort,Random,1700,2.134667,18839
-Standard QuickSort,ReverseSorted,1700,1.765541,15639
-Standard QuickSort,NearlySorted,1700,1.666042,15289
-Standard QuickSort,CommonPrefix,1700,2.253917,20200
-Standard MergeSort,Random,1700,5.552417,16106
-Standard MergeSort,ReverseSorted,1700,4.765792,8836
-Standard MergeSort,NearlySorted,1700,5.020834,12693
-Standard MergeSort,CommonPrefix,1700,8.437500,16098
-String QuickSort,Random,1700,1.405459,0
-String QuickSort,ReverseSorted,1700,3.606500,0
-String QuickSort,NearlySorted,1700,3.271625,0
-String QuickSort,CommonPrefix,1700,1.811084,0
-String MergeSort with LCP,Random,1700,8.410958,22233
-String MergeSort with LCP,ReverseSorted,1700,7.217750,13943
-String MergeSort with LCP,NearlySorted,1700,7.460709,18427
-String MergeSort with LCP,CommonPrefix,1700,15.569750,199340
-MSD Radix Sort,Random,1700,5.619334,0
-MSD Radix Sort,ReverseSorted,1700,6.559542,0
-MSD Radix Sort,NearlySorted,1700,6.208292,0
-MSD Radix Sort,CommonPrefix,1700,16.527792,0
-Hybrid MSD Radix Sort,Random,1700,1.062125,0
-Hybrid MSD Radix Sort,ReverseSorted,1700,2.196833,0
-Hybrid MSD Radix Sort,NearlySorted,1700,1.291042,0
-Hybrid MSD Radix Sort,CommonPrefix,1700,17.419417,0
-Standard QuickSort,Random,1800,2.378167,21887
-Standard QuickSort,ReverseSorted,1800,1.841375,16667
-Standard QuickSort,NearlySorted,1800,1.831875,16420
-Standard QuickSort,CommonPrefix,1800,2.521166,22008
-Standard MergeSort,Random,1800,6.013500,17215
-Standard MergeSort,ReverseSorted,1800,5.016000,9508
-Standard MergeSort,NearlySorted,1800,5.334417,13251
-Standard MergeSort,CommonPrefix,1800,8.968167,17234
-String QuickSort,Random,1800,1.448250,0
-String QuickSort,ReverseSorted,1800,4.089916,0
-String QuickSort,NearlySorted,1800,3.555958,0
-String QuickSort,CommonPrefix,1800,1.912583,0
-String MergeSort with LCP,Random,1800,8.918959,23901
-String MergeSort with LCP,ReverseSorted,1800,7.694167,14921
-String MergeSort with LCP,NearlySorted,1800,7.915250,19231
-String MergeSort with LCP,CommonPrefix,1800,16.855000,213494
-MSD Radix Sort,Random,1800,6.209958,0
-MSD Radix Sort,ReverseSorted,1800,6.751792,0
-MSD Radix Sort,NearlySorted,1800,6.549833,0
-MSD Radix Sort,CommonPrefix,1800,17.878833,0
-Hybrid MSD Radix Sort,Random,1800,1.122250,0
-Hybrid MSD Radix Sort,ReverseSorted,1800,2.341292,0
-Hybrid MSD Radix Sort,NearlySorted,1800,1.373333,0
-Hybrid MSD Radix Sort,CommonPrefix,1800,25.079084,0
-Standard QuickSort,Random,1900,2.494333,22420
-Standard QuickSort,ReverseSorted,1900,1.941083,17738
-Standard QuickSort,NearlySorted,1900,1.867167,17243
-Standard QuickSort,CommonPrefix,1900,2.970792,24294
-Standard MergeSort,Random,1900,6.570458,18296
-Standard MergeSort,ReverseSorted,1900,5.304625,10144
-Standard MergeSort,NearlySorted,1900,5.422375,14636
-Standard MergeSort,CommonPrefix,1900,9.392167,18329
-String QuickSort,Random,1900,1.686042,0
-String QuickSort,ReverseSorted,1900,4.405208,0
-String QuickSort,NearlySorted,1900,3.908667,0
-String QuickSort,CommonPrefix,1900,2.044291,0
-String MergeSort with LCP,Random,1900,9.559584,25515
-String MergeSort with LCP,ReverseSorted,1900,8.045709,15820
-String MergeSort with LCP,NearlySorted,1900,8.508000,21011
-String MergeSort with LCP,CommonPrefix,1900,18.105458,227164
-MSD Radix Sort,Random,1900,6.252542,0
-MSD Radix Sort,ReverseSorted,1900,7.132334,0
-MSD Radix Sort,NearlySorted,1900,6.916791,0
-MSD Radix Sort,CommonPrefix,1900,19.566458,0
-Hybrid MSD Radix Sort,Random,1900,1.196250,0
-Hybrid MSD Radix Sort,ReverseSorted,1900,2.512875,0
-Hybrid MSD Radix Sort,NearlySorted,1900,1.455125,0
-Hybrid MSD Radix Sort,CommonPrefix,1900,24.648125,0
-Standard QuickSort,Random,2000,2.687667,23924
-Standard QuickSort,ReverseSorted,2000,2.058041,18799
-Standard QuickSort,NearlySorted,2000,2.519666,18380
-Standard QuickSort,CommonPrefix,2000,2.952166,24276
-Standard MergeSort,Random,2000,6.695708,19430
-Standard MergeSort,ReverseSorted,2000,5.808125,10864
-Standard MergeSort,NearlySorted,2000,5.652791,15275
-Standard MergeSort,CommonPrefix,2000,10.224084,19451
-String QuickSort,Random,2000,1.741500,0
-String QuickSort,ReverseSorted,2000,4.800250,0
-String QuickSort,NearlySorted,2000,4.300708,0
-String QuickSort,CommonPrefix,2000,2.158708,0
-String MergeSort with LCP,Random,2000,10.142958,27199
-String MergeSort with LCP,ReverseSorted,2000,8.607959,16962
-String MergeSort with LCP,NearlySorted,2000,8.811875,21822
-String MergeSort with LCP,CommonPrefix,2000,18.668875,241186
-MSD Radix Sort,Random,2000,6.660625,0
-MSD Radix Sort,ReverseSorted,2000,7.440084,0
-MSD Radix Sort,NearlySorted,2000,7.250958,0
-MSD Radix Sort,CommonPrefix,2000,20.512834,0
-Hybrid MSD Radix Sort,Random,2000,1.290834,0
-Hybrid MSD Radix Sort,ReverseSorted,2000,2.597250,0
-Hybrid MSD Radix Sort,NearlySorted,2000,1.586000,0
-Hybrid MSD Radix Sort,CommonPrefix,2000,25.116375,0
-Standard QuickSort,Random,2100,2.861583,25053
-Standard QuickSort,ReverseSorted,2100,2.321083,19893
-Standard QuickSort,NearlySorted,2100,2.294417,19778
-Standard QuickSort,CommonPrefix,2100,2.821625,25076
-Standard MergeSort,Random,2100,6.962667,20518
-Standard MergeSort,ReverseSorted,2100,6.312500,11456
-Standard MergeSort,NearlySorted,2100,5.990708,16049
-Standard MergeSort,CommonPrefix,2100,10.616958,20544
-String QuickSort,Random,2100,2.095250,0
-String QuickSort,ReverseSorted,2100,5.224083,0
-String QuickSort,NearlySorted,2100,4.581417,0
-String QuickSort,CommonPrefix,2100,2.290917,0
-String MergeSort with LCP,Random,2100,10.598125,28803
-String MergeSort with LCP,ReverseSorted,2100,9.252500,17884
-String MergeSort with LCP,NearlySorted,2100,9.275208,23035
-String MergeSort with LCP,CommonPrefix,2100,20.276625,254847
-MSD Radix Sort,Random,2100,7.139750,0
-MSD Radix Sort,ReverseSorted,2100,7.840333,0
-MSD Radix Sort,NearlySorted,2100,7.604208,0
-MSD Radix Sort,CommonPrefix,2100,23.018667,0
-Hybrid MSD Radix Sort,Random,2100,1.378583,0
-Hybrid MSD Radix Sort,ReverseSorted,2100,2.719333,0
-Hybrid MSD Radix Sort,NearlySorted,2100,1.612209,0
-Hybrid MSD Radix Sort,CommonPrefix,2100,23.151417,0
-Standard QuickSort,Random,2200,2.985375,27059
-Standard QuickSort,ReverseSorted,2200,2.325792,20938
-Standard QuickSort,NearlySorted,2200,2.264958,21065
-Standard QuickSort,CommonPrefix,2200,3.231083,28260
-Standard MergeSort,Random,2200,7.705875,21689
-Standard MergeSort,ReverseSorted,2200,6.238709,11940
-Standard MergeSort,NearlySorted,2200,6.533750,17391
-Standard MergeSort,CommonPrefix,2200,11.092000,21705
-String QuickSort,Random,2200,1.924666,0
-String QuickSort,ReverseSorted,2200,5.614000,0
-String QuickSort,NearlySorted,2200,4.967708,0
-String QuickSort,CommonPrefix,2200,2.411792,0
-String MergeSort with LCP,Random,2200,11.270250,30504
-String MergeSort with LCP,ReverseSorted,2200,9.665459,18506
-String MergeSort with LCP,NearlySorted,2200,9.814333,24846
-String MergeSort with LCP,CommonPrefix,2200,21.455209,269312
-MSD Radix Sort,Random,2200,7.502583,0
-MSD Radix Sort,ReverseSorted,2200,8.187250,0
-MSD Radix Sort,NearlySorted,2200,8.000750,0
-MSD Radix Sort,CommonPrefix,2200,22.067666,0
-Hybrid MSD Radix Sort,Random,2200,1.412375,0
-Hybrid MSD Radix Sort,ReverseSorted,2200,2.848625,0
-Hybrid MSD Radix Sort,NearlySorted,2200,1.678292,0
-Hybrid MSD Radix Sort,CommonPrefix,2200,23.831375,0
-Standard QuickSort,Random,2300,3.157083,28907
-Standard QuickSort,ReverseSorted,2300,2.467916,22180
-Standard QuickSort,NearlySorted,2300,2.381625,22236
-Standard QuickSort,CommonPrefix,2300,3.289209,29562
-Standard MergeSort,Random,2300,8.032750,22772
-Standard MergeSort,ReverseSorted,2300,6.564709,12512
-Standard MergeSort,NearlySorted,2300,6.822250,17893
-Standard MergeSort,CommonPrefix,2300,11.894250,22814
-String QuickSort,Random,2300,2.039458,0
-String QuickSort,ReverseSorted,2300,6.123792,0
-String QuickSort,NearlySorted,2300,5.346667,0
-String QuickSort,CommonPrefix,2300,2.517625,0
-String MergeSort with LCP,Random,2300,11.678458,32134
-String MergeSort with LCP,ReverseSorted,2300,10.077208,19455
-String MergeSort with LCP,NearlySorted,2300,10.349791,25670
-String MergeSort with LCP,CommonPrefix,2300,22.244125,283172
-MSD Radix Sort,Random,2300,7.945166,0
-MSD Radix Sort,ReverseSorted,2300,8.698500,0
-MSD Radix Sort,NearlySorted,2300,8.399917,0
-MSD Radix Sort,CommonPrefix,2300,28.944833,0
-Hybrid MSD Radix Sort,Random,2300,1.537958,0
-Hybrid MSD Radix Sort,ReverseSorted,2300,3.005750,0
-Hybrid MSD Radix Sort,NearlySorted,2300,1.774791,0
-Hybrid MSD Radix Sort,CommonPrefix,2300,28.489833,0
-Standard QuickSort,Random,2400,3.343666,30291
-Standard QuickSort,ReverseSorted,2400,2.611250,23151
-Standard QuickSort,NearlySorted,2400,2.595417,23402
-Standard QuickSort,CommonPrefix,2400,3.259166,29376
-Standard MergeSort,Random,2400,8.602542,23966
-Standard MergeSort,ReverseSorted,2400,7.076834,13040
-Standard MergeSort,NearlySorted,2400,7.261917,18820
-Standard MergeSort,CommonPrefix,2400,12.610375,23990
-String QuickSort,Random,2400,2.168917,0
-String QuickSort,ReverseSorted,2400,6.530541,0
-String QuickSort,NearlySorted,2400,5.758292,0
-String QuickSort,CommonPrefix,2400,2.613875,0
-String MergeSort with LCP,Random,2400,12.537916,33913
-String MergeSort with LCP,ReverseSorted,2400,10.476625,20054
-String MergeSort with LCP,NearlySorted,2400,11.077334,27036
-String MergeSort with LCP,CommonPrefix,2400,23.521167,297912
-MSD Radix Sort,Random,2400,8.405333,0
-MSD Radix Sort,ReverseSorted,2400,9.021833,0
-MSD Radix Sort,NearlySorted,2400,8.794000,0
-MSD Radix Sort,CommonPrefix,2400,25.956833,0
-Hybrid MSD Radix Sort,Random,2400,1.581791,0
-Hybrid MSD Radix Sort,ReverseSorted,2400,3.134167,0
-Hybrid MSD Radix Sort,NearlySorted,2400,1.831292,0
-Hybrid MSD Radix Sort,CommonPrefix,2400,25.898416,0
-Standard QuickSort,Random,2500,3.454375,31090
-Standard QuickSort,ReverseSorted,2500,2.767958,24330
-Standard QuickSort,NearlySorted,2500,2.790250,24777
-Standard QuickSort,CommonPrefix,2500,3.513167,31935
-Standard MergeSort,Random,2500,8.539625,25104
-Standard MergeSort,ReverseSorted,2500,7.217667,13652
-Standard MergeSort,NearlySorted,2500,7.337375,19977
-Standard MergeSort,CommonPrefix,2500,12.977291,25126
-String QuickSort,Random,2500,2.162125,0
-String QuickSort,ReverseSorted,2500,7.072208,0
-String QuickSort,NearlySorted,2500,5.980542,0
-String QuickSort,CommonPrefix,2500,2.836708,0
-String MergeSort with LCP,Random,2500,12.907625,35616
-String MergeSort with LCP,ReverseSorted,2500,10.849542,21003
-String MergeSort with LCP,NearlySorted,2500,11.263125,28764
-String MergeSort with LCP,CommonPrefix,2500,25.183250,312076
-MSD Radix Sort,Random,2500,8.776042,0
-MSD Radix Sort,ReverseSorted,2500,9.315209,0
-MSD Radix Sort,NearlySorted,2500,9.184666,0
-MSD Radix Sort,CommonPrefix,2500,25.951875,0
-Hybrid MSD Radix Sort,Random,2500,1.705333,0
-Hybrid MSD Radix Sort,ReverseSorted,2500,3.299958,0
-Hybrid MSD Radix Sort,NearlySorted,2500,1.903250,0
-Hybrid MSD Radix Sort,CommonPrefix,2500,30.114042,0
-Standard QuickSort,Random,2600,3.530583,31839
-Standard QuickSort,ReverseSorted,2600,2.957375,25593
-Standard QuickSort,NearlySorted,2600,6.483042,25778
-Standard QuickSort,CommonPrefix,2600,23.040917,32334
-Standard MergeSort,Random,2600,14.015958,26271
-Standard MergeSort,ReverseSorted,2600,7.720125,14260
-Standard MergeSort,NearlySorted,2600,7.647625,20810
-Standard MergeSort,CommonPrefix,2600,13.570875,26233
-String QuickSort,Random,2600,2.364125,0
-String QuickSort,ReverseSorted,2600,7.615000,0
-String QuickSort,NearlySorted,2600,6.341166,0
-String QuickSort,CommonPrefix,2600,2.900209,0
-String MergeSort with LCP,Random,2600,13.416417,37405
-String MergeSort with LCP,ReverseSorted,2600,11.302500,21914
-String MergeSort with LCP,NearlySorted,2600,11.777333,29917
-String MergeSort with LCP,CommonPrefix,2600,26.284167,325981
-MSD Radix Sort,Random,2600,9.391041,0
-MSD Radix Sort,ReverseSorted,2600,9.721583,0
-MSD Radix Sort,NearlySorted,2600,9.563459,0
-MSD Radix Sort,CommonPrefix,2600,30.589917,0
-Hybrid MSD Radix Sort,Random,2600,1.727708,0
-Hybrid MSD Radix Sort,ReverseSorted,2600,3.402167,0
-Hybrid MSD Radix Sort,NearlySorted,2600,1.978042,0
-Hybrid MSD Radix Sort,CommonPrefix,2600,27.924250,0
-Standard QuickSort,Random,2700,3.820500,34896
-Standard QuickSort,ReverseSorted,2700,2.938417,26783
-Standard QuickSort,NearlySorted,2700,2.996792,27131
-Standard QuickSort,CommonPrefix,2700,4.209750,35948
-Standard MergeSort,Random,2700,9.555708,27424
-Standard MergeSort,ReverseSorted,2700,7.754917,14840
-Standard MergeSort,NearlySorted,2700,8.112875,21932
-Standard MergeSort,CommonPrefix,2700,14.809167,27415
-String QuickSort,Random,2700,2.355958,0
-String QuickSort,ReverseSorted,2700,8.106459,0
-String QuickSort,NearlySorted,2700,6.773041,0
-String QuickSort,CommonPrefix,2700,3.017917,0
-String MergeSort with LCP,Random,2700,14.084333,39098
-String MergeSort with LCP,ReverseSorted,2700,11.924084,22850
-String MergeSort with LCP,NearlySorted,2700,12.383792,31414
-String MergeSort with LCP,CommonPrefix,2700,27.044208,340711
-MSD Radix Sort,Random,2700,9.946500,0
-MSD Radix Sort,ReverseSorted,2700,10.382708,0
-MSD Radix Sort,NearlySorted,2700,9.844208,0
-MSD Radix Sort,CommonPrefix,2700,38.562916,0
-Hybrid MSD Radix Sort,Random,2700,1.823416,0
-Hybrid MSD Radix Sort,ReverseSorted,2700,3.531750,0
-Hybrid MSD Radix Sort,NearlySorted,2700,2.053083,0
-Hybrid MSD Radix Sort,CommonPrefix,2700,35.083625,0
-Standard QuickSort,Random,2800,3.870583,35988
-Standard QuickSort,ReverseSorted,2800,3.094041,27823
-Standard QuickSort,NearlySorted,2800,3.084042,28629
-Standard QuickSort,CommonPrefix,2800,4.150334,37576
-Standard MergeSort,Random,2800,9.654208,28588
-Standard MergeSort,ReverseSorted,2800,8.478375,15488
-Standard MergeSort,NearlySorted,2800,8.267625,22158
-Standard MergeSort,CommonPrefix,2800,14.644250,28637
-String QuickSort,Random,2800,2.564500,0
-String QuickSort,ReverseSorted,2800,8.655125,0
-String QuickSort,NearlySorted,2800,7.250291,0
-String QuickSort,CommonPrefix,2800,3.250292,0
-String MergeSort with LCP,Random,2800,14.385708,40917
-String MergeSort with LCP,ReverseSorted,2800,12.296125,23584
-String MergeSort with LCP,NearlySorted,2800,12.891041,31887
-String MergeSort with LCP,CommonPrefix,2800,28.858500,355988
-MSD Radix Sort,Random,2800,10.199750,0
-MSD Radix Sort,ReverseSorted,2800,10.598542,0
-MSD Radix Sort,NearlySorted,2800,10.258125,0
-MSD Radix Sort,CommonPrefix,2800,36.317083,0
-Hybrid MSD Radix Sort,Random,2800,2.068833,0
-Hybrid MSD Radix Sort,ReverseSorted,2800,3.666792,0
-Hybrid MSD Radix Sort,NearlySorted,2800,2.099666,0
-Hybrid MSD Radix Sort,CommonPrefix,2800,34.023208,0
-Standard QuickSort,Random,2900,4.113167,37388
-Standard QuickSort,ReverseSorted,2900,3.211542,29039
-Standard QuickSort,NearlySorted,2900,3.471916,29656
-Standard QuickSort,CommonPrefix,2900,3.906041,35437
-Standard MergeSort,Random,2900,10.187042,29727
-Standard MergeSort,ReverseSorted,2900,8.467000,16120
-Standard MergeSort,NearlySorted,2900,8.788833,22635
-Standard MergeSort,CommonPrefix,2900,15.550041,29800
-String QuickSort,Random,2900,2.802125,0
-String QuickSort,ReverseSorted,2900,9.132209,0
-String QuickSort,NearlySorted,2900,7.539834,0
-String QuickSort,CommonPrefix,2900,3.236209,0
-String MergeSort with LCP,Random,2900,15.209958,42637
-String MergeSort with LCP,ReverseSorted,2900,12.832541,24646
-String MergeSort with LCP,NearlySorted,2900,13.298666,32788
-String MergeSort with LCP,CommonPrefix,2900,29.741417,370559
-MSD Radix Sort,Random,2900,10.665750,0
-MSD Radix Sort,ReverseSorted,2900,10.908375,0
-MSD Radix Sort,NearlySorted,2900,10.784792,0
-MSD Radix Sort,CommonPrefix,2900,37.402250,0
-Hybrid MSD Radix Sort,Random,2900,2.155875,0
-Hybrid MSD Radix Sort,ReverseSorted,2900,3.786084,0
-Hybrid MSD Radix Sort,NearlySorted,2900,2.126209,0
-Hybrid MSD Radix Sort,CommonPrefix,2900,32.541375,0
-Standard QuickSort,Random,3000,4.617083,43533
-Standard QuickSort,ReverseSorted,3000,3.428084,30089
-Standard QuickSort,NearlySorted,3000,3.426375,30917
-Standard QuickSort,CommonPrefix,3000,4.197291,39816
-Standard MergeSort,Random,3000,10.662542,30912
-Standard MergeSort,ReverseSorted,3000,8.849584,16828
-Standard MergeSort,NearlySorted,3000,9.061750,23512
-Standard MergeSort,CommonPrefix,3000,16.572833,30927
-String QuickSort,Random,3000,2.878833,0
-String QuickSort,ReverseSorted,3000,9.791875,0
-String QuickSort,NearlySorted,3000,8.006500,0
-String QuickSort,CommonPrefix,3000,3.484459,0
-String MergeSort with LCP,Random,3000,15.573292,44439
-String MergeSort with LCP,ReverseSorted,3000,13.164375,25772
-String MergeSort with LCP,NearlySorted,3000,13.685708,34101
-String MergeSort with LCP,CommonPrefix,3000,30.989000,384709
-MSD Radix Sort,Random,3000,11.438458,0
-MSD Radix Sort,ReverseSorted,3000,11.366666,0
-MSD Radix Sort,NearlySorted,3000,10.973417,0
-MSD Radix Sort,CommonPrefix,3000,41.685292,0
-Hybrid MSD Radix Sort,Random,3000,2.037916,0
-Hybrid MSD Radix Sort,ReverseSorted,3000,3.929041,0
-Hybrid MSD Radix Sort,NearlySorted,3000,2.245042,0
-Hybrid MSD Radix Sort,CommonPrefix,3000,36.267500,0
+Standard QuickSort,Random,100,0.082042,574
+Standard QuickSort,ReverseSorted,100,0.066500,514
+Standard QuickSort,NearlySorted,100,0.061584,495
+Standard QuickSort,CommonPrefix,100,0.099458,819
+Standard MergeSort,Random,100,0.248250,546
+Standard MergeSort,ReverseSorted,100,0.209084,316
+Standard MergeSort,NearlySorted,100,0.199458,434
+Standard MergeSort,CommonPrefix,100,0.343000,547
+String QuickSort,Random,100,0.050458,651
+String QuickSort,ReverseSorted,100,0.066167,1071
+String QuickSort,NearlySorted,100,0.061708,926
+String QuickSort,CommonPrefix,100,0.078291,1741
+String MergeSort with LCP,Random,100,0.366750,601
+String MergeSort with LCP,ReverseSorted,100,0.331250,590
+String MergeSort with LCP,NearlySorted,100,0.329959,751
+String MergeSort with LCP,CommonPrefix,100,0.576625,6617
+MSD Radix Sort,Random,100,0.498875,179
+MSD Radix Sort,ReverseSorted,100,0.448417,249
+MSD Radix Sort,NearlySorted,100,0.494375,241
+MSD Radix Sort,CommonPrefix,100,1.548917,1278
+Hybrid MSD Radix Sort,Random,100,0.049833,306
+Hybrid MSD Radix Sort,ReverseSorted,100,0.125542,1604
+Hybrid MSD Radix Sort,NearlySorted,100,0.084750,934
+Hybrid MSD Radix Sort,CommonPrefix,100,0.916333,2497
+Standard QuickSort,Random,200,0.191000,1544
+Standard QuickSort,ReverseSorted,200,0.149667,1225
+Standard QuickSort,NearlySorted,200,0.139417,1168
+Standard QuickSort,CommonPrefix,200,0.181416,1534
+Standard MergeSort,Random,200,0.533167,1285
+Standard MergeSort,ReverseSorted,200,0.465167,732
+Standard MergeSort,NearlySorted,200,0.441541,987
+Standard MergeSort,CommonPrefix,200,0.664167,1280
+String QuickSort,Random,200,0.117666,1622
+String QuickSort,ReverseSorted,200,0.203542,3258
+String QuickSort,NearlySorted,200,0.141875,2096
+String QuickSort,CommonPrefix,200,0.189917,3996
+String MergeSort with LCP,Random,200,0.813333,1495
+String MergeSort with LCP,ReverseSorted,200,0.713542,1312
+String MergeSort with LCP,NearlySorted,200,0.722292,1618
+String MergeSort with LCP,CommonPrefix,200,1.339959,15566
+MSD Radix Sort,Random,200,0.916250,397
+MSD Radix Sort,ReverseSorted,200,0.805958,489
+MSD Radix Sort,NearlySorted,200,0.765375,479
+MSD Radix Sort,CommonPrefix,200,2.316916,2596
+Hybrid MSD Radix Sort,Random,200,0.094166,723
+Hybrid MSD Radix Sort,ReverseSorted,200,0.267208,3616
+Hybrid MSD Radix Sort,NearlySorted,200,0.161334,1866
+Hybrid MSD Radix Sort,CommonPrefix,200,1.553125,5118
+Standard QuickSort,Random,300,0.304833,2563
+Standard QuickSort,ReverseSorted,300,0.242417,1996
+Standard QuickSort,NearlySorted,300,0.215125,1912
+Standard QuickSort,CommonPrefix,300,0.289916,2568
+Standard MergeSort,Random,300,0.903750,2106
+Standard MergeSort,ReverseSorted,300,0.719875,1180
+Standard MergeSort,NearlySorted,300,0.694042,1559
+Standard MergeSort,CommonPrefix,300,1.248709,2089
+String QuickSort,Random,300,0.207750,2654
+String QuickSort,ReverseSorted,300,0.303208,4777
+String QuickSort,NearlySorted,300,0.228958,3484
+String QuickSort,CommonPrefix,300,0.268334,5695
+String MergeSort with LCP,Random,300,1.229042,2528
+String MergeSort with LCP,ReverseSorted,300,1.108958,2021
+String MergeSort with LCP,NearlySorted,300,1.164292,2559
+String MergeSort with LCP,CommonPrefix,300,2.131084,25484
+MSD Radix Sort,Random,300,1.236875,612
+MSD Radix Sort,ReverseSorted,300,1.186917,733
+MSD Radix Sort,NearlySorted,300,1.168916,725
+MSD Radix Sort,CommonPrefix,300,3.310458,3914
+Hybrid MSD Radix Sort,Random,300,0.153250,1198
+Hybrid MSD Radix Sort,ReverseSorted,300,0.421708,5523
+Hybrid MSD Radix Sort,NearlySorted,300,0.241375,2837
+Hybrid MSD Radix Sort,CommonPrefix,300,2.603250,7805
+Standard QuickSort,Random,400,0.433708,3618
+Standard QuickSort,ReverseSorted,400,0.329125,2856
+Standard QuickSort,NearlySorted,400,0.306500,2713
+Standard QuickSort,CommonPrefix,400,0.417125,3634
+Standard MergeSort,Random,400,1.157667,2964
+Standard MergeSort,ReverseSorted,400,0.998042,1664
+Standard MergeSort,NearlySorted,400,0.957916,2196
+Standard MergeSort,CommonPrefix,400,1.602083,2967
+String QuickSort,Random,400,0.263084,3647
+String QuickSort,ReverseSorted,400,0.435416,6890
+String QuickSort,NearlySorted,400,0.371791,5052
+String QuickSort,CommonPrefix,400,0.379625,7984
+String MergeSort with LCP,Random,400,1.739417,3647
+String MergeSort with LCP,ReverseSorted,400,1.614292,2855
+String MergeSort with LCP,NearlySorted,400,1.549917,3517
+String MergeSort with LCP,CommonPrefix,400,3.029584,36265
+MSD Radix Sort,Random,400,1.542875,836
+MSD Radix Sort,ReverseSorted,400,1.649333,984
+MSD Radix Sort,NearlySorted,400,1.615167,981
+MSD Radix Sort,CommonPrefix,400,3.998458,5234
+Hybrid MSD Radix Sort,Random,400,0.198208,1718
+Hybrid MSD Radix Sort,ReverseSorted,400,0.616042,7291
+Hybrid MSD Radix Sort,NearlySorted,400,0.319666,3787
+Hybrid MSD Radix Sort,CommonPrefix,400,3.916167,10532
+Standard QuickSort,Random,500,0.531416,4396
+Standard QuickSort,ReverseSorted,500,0.432041,3696
+Standard QuickSort,NearlySorted,500,0.379667,3512
+Standard QuickSort,CommonPrefix,500,0.573209,5080
+Standard MergeSort,Random,500,1.431833,3878
+Standard MergeSort,ReverseSorted,500,1.237458,2216
+Standard MergeSort,NearlySorted,500,1.241625,2771
+Standard MergeSort,CommonPrefix,500,1.915500,3859
+String QuickSort,Random,500,0.339792,4684
+String QuickSort,ReverseSorted,500,0.555708,8640
+String QuickSort,NearlySorted,500,0.460625,6856
+String QuickSort,CommonPrefix,500,0.501666,10381
+String MergeSort with LCP,Random,500,2.249125,4880
+String MergeSort with LCP,ReverseSorted,500,2.176291,3783
+String MergeSort with LCP,NearlySorted,500,1.957250,4364
+String MergeSort with LCP,CommonPrefix,500,3.855125,47292
+MSD Radix Sort,Random,500,1.875625,1064
+MSD Radix Sort,ReverseSorted,500,2.093584,1233
+MSD Radix Sort,NearlySorted,500,2.028625,1226
+MSD Radix Sort,CommonPrefix,500,5.424334,6549
+Hybrid MSD Radix Sort,Random,500,0.257166,2279
+Hybrid MSD Radix Sort,ReverseSorted,500,0.684625,9433
+Hybrid MSD Radix Sort,NearlySorted,500,0.401708,4801
+Hybrid MSD Radix Sort,CommonPrefix,500,4.800750,13300
+Standard QuickSort,Random,600,0.653291,5547
+Standard QuickSort,ReverseSorted,600,0.532542,4568
+Standard QuickSort,NearlySorted,600,0.477542,4402
+Standard QuickSort,CommonPrefix,600,0.652125,5775
+Standard MergeSort,Random,600,1.821083,4803
+Standard MergeSort,ReverseSorted,600,1.565417,2660
+Standard MergeSort,NearlySorted,600,1.564834,3464
+Standard MergeSort,CommonPrefix,600,2.387334,4800
+String QuickSort,Random,600,0.444459,6064
+String QuickSort,ReverseSorted,600,0.721833,11147
+String QuickSort,NearlySorted,600,0.599459,8981
+String QuickSort,CommonPrefix,600,0.631000,12277
+String MergeSort with LCP,Random,600,2.650875,6145
+String MergeSort with LCP,ReverseSorted,600,2.314500,4415
+String MergeSort with LCP,NearlySorted,600,2.373708,5467
+String MergeSort with LCP,CommonPrefix,600,5.071458,58890
+MSD Radix Sort,Random,600,2.105417,1282
+MSD Radix Sort,ReverseSorted,600,2.503250,1491
+MSD Radix Sort,NearlySorted,600,2.364666,1461
+MSD Radix Sort,CommonPrefix,600,5.813917,7870
+Hybrid MSD Radix Sort,Random,600,0.332208,2862
+Hybrid MSD Radix Sort,ReverseSorted,600,0.808125,11146
+Hybrid MSD Radix Sort,NearlySorted,600,0.477917,5725
+Hybrid MSD Radix Sort,CommonPrefix,600,6.007000,16098
+Standard QuickSort,Random,700,0.866833,7414
+Standard QuickSort,ReverseSorted,700,0.650833,5584
+Standard QuickSort,NearlySorted,700,0.577542,5309
+Standard QuickSort,CommonPrefix,700,0.819167,7421
+Standard MergeSort,Random,700,2.085834,5761
+Standard MergeSort,ReverseSorted,700,1.983125,3172
+Standard MergeSort,NearlySorted,700,1.789583,4186
+Standard MergeSort,CommonPrefix,700,2.842584,5742
+String QuickSort,Random,700,0.524458,7105
+String QuickSort,ReverseSorted,700,0.922500,14321
+String QuickSort,NearlySorted,700,0.752750,11349
+String QuickSort,CommonPrefix,700,0.772250,15706
+String MergeSort with LCP,Random,700,3.142208,7432
+String MergeSort with LCP,ReverseSorted,700,2.745875,5223
+String MergeSort with LCP,NearlySorted,700,2.974667,6562
+String MergeSort with LCP,CommonPrefix,700,5.667208,70553
+MSD Radix Sort,Random,700,2.355291,1508
+MSD Radix Sort,ReverseSorted,700,2.936791,1736
+MSD Radix Sort,NearlySorted,700,2.735667,1697
+MSD Radix Sort,CommonPrefix,700,6.839417,9185
+Hybrid MSD Radix Sort,Random,700,0.380208,3527
+Hybrid MSD Radix Sort,ReverseSorted,700,0.935167,12987
+Hybrid MSD Radix Sort,NearlySorted,700,0.558375,6733
+Hybrid MSD Radix Sort,CommonPrefix,700,7.028833,18899
+Standard QuickSort,Random,800,1.042500,8795
+Standard QuickSort,ReverseSorted,800,0.731250,6525
+Standard QuickSort,NearlySorted,800,0.682500,6228
+Standard QuickSort,CommonPrefix,800,0.999750,9296
+Standard MergeSort,Random,800,2.463417,6715
+Standard MergeSort,ReverseSorted,800,2.079083,3728
+Standard MergeSort,NearlySorted,800,2.091833,5060
+Standard MergeSort,CommonPrefix,800,3.387334,6735
+String QuickSort,Random,800,0.627917,7941
+String QuickSort,ReverseSorted,800,1.237000,17712
+String QuickSort,NearlySorted,800,1.014125,14017
+String QuickSort,CommonPrefix,800,0.805667,16646
+String MergeSort with LCP,Random,800,3.688334,8753
+String MergeSort with LCP,ReverseSorted,800,3.193375,6192
+String MergeSort with LCP,NearlySorted,800,3.266791,7678
+String MergeSort with LCP,CommonPrefix,800,6.799042,82811
+MSD Radix Sort,Random,800,2.624459,1734
+MSD Radix Sort,ReverseSorted,800,3.285917,1981
+MSD Radix Sort,NearlySorted,800,3.004792,1924
+MSD Radix Sort,CommonPrefix,800,7.540667,10509
+Hybrid MSD Radix Sort,Random,800,0.433208,4179
+Hybrid MSD Radix Sort,ReverseSorted,800,1.059292,14657
+Hybrid MSD Radix Sort,NearlySorted,800,0.632917,7667
+Hybrid MSD Radix Sort,CommonPrefix,800,8.681500,21753
+Standard QuickSort,Random,900,1.145750,9118
+Standard QuickSort,ReverseSorted,900,0.840750,7446
+Standard QuickSort,NearlySorted,900,0.764667,7163
+Standard QuickSort,CommonPrefix,900,1.139709,10883
+Standard MergeSort,Random,900,2.723625,7701
+Standard MergeSort,ReverseSorted,900,2.331750,4304
+Standard MergeSort,NearlySorted,900,2.379833,6007
+Standard MergeSort,CommonPrefix,900,3.817917,7714
+String QuickSort,Random,900,0.708709,9843
+String QuickSort,ReverseSorted,900,1.349958,20038
+String QuickSort,NearlySorted,900,1.120959,16830
+String QuickSort,CommonPrefix,900,0.913708,18776
+String MergeSort with LCP,Random,900,4.202125,10153
+String MergeSort with LCP,ReverseSorted,900,3.588792,7045
+String MergeSort with LCP,NearlySorted,900,3.758458,8888
+String MergeSort with LCP,CommonPrefix,900,7.862625,95003
+MSD Radix Sort,Random,900,2.895542,1961
+MSD Radix Sort,ReverseSorted,900,3.608250,2219
+MSD Radix Sort,NearlySorted,900,3.420583,2169
+MSD Radix Sort,CommonPrefix,900,8.294083,11829
+Hybrid MSD Radix Sort,Random,900,0.516416,4878
+Hybrid MSD Radix Sort,ReverseSorted,900,1.227250,16842
+Hybrid MSD Radix Sort,NearlySorted,900,0.716875,8714
+Hybrid MSD Radix Sort,CommonPrefix,900,8.662833,24648
+Standard QuickSort,Random,1000,1.152500,10350
+Standard QuickSort,ReverseSorted,1000,0.950042,8406
+Standard QuickSort,NearlySorted,1000,0.881750,8233
+Standard QuickSort,CommonPrefix,1000,1.142125,10312
+Standard MergeSort,Random,1000,3.207834,8700
+Standard MergeSort,ReverseSorted,1000,2.756125,4932
+Standard MergeSort,NearlySorted,1000,2.807500,6680
+Standard MergeSort,CommonPrefix,1000,4.563459,8693
+String QuickSort,Random,1000,0.753500,10644
+String QuickSort,ReverseSorted,1000,1.613709,24037
+String QuickSort,NearlySorted,1000,1.397792,19992
+String QuickSort,CommonPrefix,1000,1.077792,21888
+String MergeSort with LCP,Random,1000,4.705583,11574
+String MergeSort with LCP,ReverseSorted,1000,4.072000,8064
+String MergeSort with LCP,NearlySorted,1000,4.158917,9866
+String MergeSort with LCP,CommonPrefix,1000,8.730958,107165
+MSD Radix Sort,Random,1000,3.188666,2186
+MSD Radix Sort,ReverseSorted,1000,3.963084,2455
+MSD Radix Sort,NearlySorted,1000,3.751959,2407
+MSD Radix Sort,CommonPrefix,1000,9.478916,13153
+Hybrid MSD Radix Sort,Random,1000,0.582250,5552
+Hybrid MSD Radix Sort,ReverseSorted,1000,1.330542,18534
+Hybrid MSD Radix Sort,NearlySorted,1000,0.810042,9642
+Hybrid MSD Radix Sort,CommonPrefix,1000,10.208333,27499
+Standard QuickSort,Random,1100,1.313333,11683
+Standard QuickSort,ReverseSorted,1100,1.072167,9409
+Standard QuickSort,NearlySorted,1100,0.978792,9130
+Standard QuickSort,CommonPrefix,1100,1.348458,12047
+Standard MergeSort,Random,1100,3.523125,9742
+Standard MergeSort,ReverseSorted,1100,3.182667,5420
+Standard MergeSort,NearlySorted,1100,3.041208,7667
+Standard MergeSort,CommonPrefix,1100,5.055833,9725
+String QuickSort,Random,1100,0.858959,11947
+String QuickSort,ReverseSorted,1100,1.771875,26911
+String QuickSort,NearlySorted,1100,1.553041,22614
+String QuickSort,CommonPrefix,1100,1.158750,23593
+String MergeSort with LCP,Random,1100,5.314041,13050
+String MergeSort with LCP,ReverseSorted,1100,4.483459,8740
+String MergeSort with LCP,NearlySorted,1100,4.722083,11278
+String MergeSort with LCP,CommonPrefix,1100,9.901375,119945
+MSD Radix Sort,Random,1100,3.592750,2438
+MSD Radix Sort,ReverseSorted,1100,4.322750,2692
+MSD Radix Sort,NearlySorted,1100,4.092333,2636
+MSD Radix Sort,CommonPrefix,1100,9.961750,14487
+Hybrid MSD Radix Sort,Random,1100,0.651583,6268
+Hybrid MSD Radix Sort,ReverseSorted,1100,1.471042,20283
+Hybrid MSD Radix Sort,NearlySorted,1100,1.004666,10539
+Hybrid MSD Radix Sort,CommonPrefix,1100,11.088375,30488
+Standard QuickSort,Random,1200,1.536375,12824
+Standard QuickSort,ReverseSorted,1200,1.245542,10329
+Standard QuickSort,NearlySorted,1200,1.121917,10150
+Standard QuickSort,CommonPrefix,1200,1.580792,14465
+Standard MergeSort,Random,1200,3.808625,10772
+Standard MergeSort,ReverseSorted,1200,3.299666,5920
+Standard MergeSort,NearlySorted,1200,3.419792,8543
+Standard MergeSort,CommonPrefix,1200,5.586500,10794
+String QuickSort,Random,1200,0.969042,13848
+String QuickSort,ReverseSorted,1200,2.057917,31161
+String QuickSort,NearlySorted,1200,1.733000,26184
+String QuickSort,CommonPrefix,1200,1.322584,26285
+String MergeSort with LCP,Random,1200,5.929875,14507
+String MergeSort with LCP,ReverseSorted,1200,5.078084,9427
+String MergeSort with LCP,NearlySorted,1200,5.136333,12537
+String MergeSort with LCP,CommonPrefix,1200,10.924042,133235
+MSD Radix Sort,Random,1200,3.902541,2672
+MSD Radix Sort,ReverseSorted,1200,4.727125,2938
+MSD Radix Sort,NearlySorted,1200,4.576375,2890
+MSD Radix Sort,CommonPrefix,1200,11.404000,15833
+Hybrid MSD Radix Sort,Random,1200,0.708750,6981
+Hybrid MSD Radix Sort,ReverseSorted,1200,1.616458,22275
+Hybrid MSD Radix Sort,NearlySorted,1200,0.952583,11550
+Hybrid MSD Radix Sort,CommonPrefix,1200,12.593916,33424
+Standard QuickSort,Random,1300,1.652667,14077
+Standard QuickSort,ReverseSorted,1300,1.294833,11522
+Standard QuickSort,NearlySorted,1300,1.243500,11118
+Standard QuickSort,CommonPrefix,1300,1.685250,14395
+Standard MergeSort,Random,1300,4.114500,11838
+Standard MergeSort,ReverseSorted,1300,3.498833,6480
+Standard MergeSort,NearlySorted,1300,3.605584,9119
+Standard MergeSort,CommonPrefix,1300,5.982584,11819
+String QuickSort,Random,1300,1.056167,14923
+String QuickSort,ReverseSorted,1300,2.305083,35206
+String QuickSort,NearlySorted,1300,1.988917,30174
+String QuickSort,CommonPrefix,1300,1.362500,27756
+String MergeSort with LCP,Random,1300,6.629458,16003
+String MergeSort with LCP,ReverseSorted,1300,5.432166,10387
+String MergeSort with LCP,NearlySorted,1300,5.621792,13570
+String MergeSort with LCP,CommonPrefix,1300,11.665959,146006
+MSD Radix Sort,Random,1300,4.153833,2896
+MSD Radix Sort,ReverseSorted,1300,5.340208,3190
+MSD Radix Sort,NearlySorted,1300,4.941167,3137
+MSD Radix Sort,CommonPrefix,1300,12.908375,17182
+Hybrid MSD Radix Sort,Random,1300,0.765042,7731
+Hybrid MSD Radix Sort,ReverseSorted,1300,1.712584,23971
+Hybrid MSD Radix Sort,NearlySorted,1300,1.029541,12509
+Hybrid MSD Radix Sort,CommonPrefix,1300,12.425791,36389
+Standard QuickSort,Random,1400,1.802791,16101
+Standard QuickSort,ReverseSorted,1400,1.398541,12517
+Standard QuickSort,NearlySorted,1400,1.290959,12109
+Standard QuickSort,CommonPrefix,1400,1.895083,15726
+Standard MergeSort,Random,1400,4.583334,12877
+Standard MergeSort,ReverseSorted,1400,3.771500,7044
+Standard MergeSort,NearlySorted,1400,3.914250,9961
+Standard MergeSort,CommonPrefix,1400,6.499750,12864
+String QuickSort,Random,1400,1.075666,15155
+String QuickSort,ReverseSorted,1400,2.714041,41170
+String QuickSort,NearlySorted,1400,2.292125,34537
+String QuickSort,CommonPrefix,1400,1.518417,30547
+String MergeSort with LCP,Random,1400,6.651209,17529
+String MergeSort with LCP,ReverseSorted,1400,5.994750,11252
+String MergeSort with LCP,NearlySorted,1400,6.121500,14732
+String MergeSort with LCP,CommonPrefix,1400,12.824959,159026
+MSD Radix Sort,Random,1400,4.473917,3134
+MSD Radix Sort,ReverseSorted,1400,5.550666,3445
+MSD Radix Sort,NearlySorted,1400,5.215416,3378
+MSD Radix Sort,CommonPrefix,1400,13.425000,18511
+Hybrid MSD Radix Sort,Random,1400,0.934834,8474
+Hybrid MSD Radix Sort,ReverseSorted,1400,1.881333,26422
+Hybrid MSD Radix Sort,NearlySorted,1400,1.114375,13476
+Hybrid MSD Radix Sort,CommonPrefix,1400,14.007042,39401
+Standard QuickSort,Random,1500,1.998000,18112
+Standard QuickSort,ReverseSorted,1500,1.509958,13601
+Standard QuickSort,NearlySorted,1500,1.414833,13182
+Standard QuickSort,CommonPrefix,1500,2.543208,20181
+Standard MergeSort,Random,1500,4.796459,13972
+Standard MergeSort,ReverseSorted,1500,4.106667,7664
+Standard MergeSort,NearlySorted,1500,4.212708,10802
+Standard MergeSort,CommonPrefix,1500,7.165416,13956
+String QuickSort,Random,1500,1.171250,16544
+String QuickSort,ReverseSorted,1500,2.943584,44871
+String QuickSort,NearlySorted,1500,2.570042,38853
+String QuickSort,CommonPrefix,1500,1.624833,32954
+String MergeSort with LCP,Random,1500,7.517375,19137
+String MergeSort with LCP,ReverseSorted,1500,6.325834,12253
+String MergeSort with LCP,NearlySorted,1500,6.757584,15833
+String MergeSort with LCP,CommonPrefix,1500,13.672208,172585
+MSD Radix Sort,Random,1500,4.873666,3383
+MSD Radix Sort,ReverseSorted,1500,5.936292,3692
+MSD Radix Sort,NearlySorted,1500,5.628541,3620
+MSD Radix Sort,CommonPrefix,1500,14.157292,19849
+Hybrid MSD Radix Sort,Random,1500,0.932125,9275
+Hybrid MSD Radix Sort,ReverseSorted,1500,2.011916,28231
+Hybrid MSD Radix Sort,NearlySorted,1500,1.181958,14340
+Hybrid MSD Radix Sort,CommonPrefix,1500,16.505750,42383
+Standard QuickSort,Random,1600,2.018125,18693
+Standard QuickSort,ReverseSorted,1600,1.629250,14659
+Standard QuickSort,NearlySorted,1600,1.540750,14260
+Standard QuickSort,CommonPrefix,1600,2.019708,18302
+Standard MergeSort,Random,1600,5.608000,15024
+Standard MergeSort,ReverseSorted,1600,4.431875,8256
+Standard MergeSort,NearlySorted,1600,4.502041,11476
+Standard MergeSort,CommonPrefix,1600,7.934334,15068
+String QuickSort,Random,1600,1.277792,17885
+String QuickSort,ReverseSorted,1600,3.313834,50511
+String QuickSort,NearlySorted,1600,2.896333,43476
+String QuickSort,CommonPrefix,1600,1.800292,36115
+String MergeSort with LCP,Random,1600,7.908041,20682
+String MergeSort with LCP,ReverseSorted,1600,6.642333,13183
+String MergeSort with LCP,NearlySorted,1600,7.000333,16852
+String MergeSort with LCP,CommonPrefix,1600,14.486208,186398
+MSD Radix Sort,Random,1600,5.322500,3645
+MSD Radix Sort,ReverseSorted,1600,6.293000,3941
+MSD Radix Sort,NearlySorted,1600,5.980542,3852
+MSD Radix Sort,CommonPrefix,1600,14.696791,21189
+Hybrid MSD Radix Sort,Random,1600,0.991791,10073
+Hybrid MSD Radix Sort,ReverseSorted,1600,2.150542,30166
+Hybrid MSD Radix Sort,NearlySorted,1600,1.254375,15277
+Hybrid MSD Radix Sort,CommonPrefix,1600,16.443166,45380
+Standard QuickSort,Random,1700,2.242625,20509
+Standard QuickSort,ReverseSorted,1700,1.716792,15639
+Standard QuickSort,NearlySorted,1700,1.696250,15237
+Standard QuickSort,CommonPrefix,1700,2.343750,20791
+Standard MergeSort,Random,1700,5.515542,16084
+Standard MergeSort,ReverseSorted,1700,4.675167,8836
+Standard MergeSort,NearlySorted,1700,4.841875,12342
+Standard MergeSort,CommonPrefix,1700,7.972583,16167
+String QuickSort,Random,1700,1.376416,19345
+String QuickSort,ReverseSorted,1700,3.578292,54717
+String QuickSort,NearlySorted,1700,3.226833,48654
+String QuickSort,CommonPrefix,1700,1.984208,39625
+String MergeSort with LCP,Random,1700,8.243958,22214
+String MergeSort with LCP,ReverseSorted,1700,7.308625,13989
+String MergeSort with LCP,NearlySorted,1700,7.428791,18072
+String MergeSort with LCP,CommonPrefix,1700,15.808708,200088
+MSD Radix Sort,Random,1700,5.716459,3895
+MSD Radix Sort,ReverseSorted,1700,6.724542,4189
+MSD Radix Sort,NearlySorted,1700,6.300167,4091
+MSD Radix Sort,CommonPrefix,1700,16.318334,22532
+Hybrid MSD Radix Sort,Random,1700,1.060875,10818
+Hybrid MSD Radix Sort,ReverseSorted,1700,2.312042,32197
+Hybrid MSD Radix Sort,NearlySorted,1700,1.349833,16225
+Hybrid MSD Radix Sort,CommonPrefix,1700,18.239000,48326
+Standard QuickSort,Random,1800,2.406791,22502
+Standard QuickSort,ReverseSorted,1800,1.836583,16667
+Standard QuickSort,NearlySorted,1800,1.766208,16324
+Standard QuickSort,CommonPrefix,1800,2.301041,20490
+Standard MergeSort,Random,1800,6.072125,17200
+Standard MergeSort,ReverseSorted,1800,4.963792,9508
+Standard MergeSort,NearlySorted,1800,5.133666,13485
+Standard MergeSort,CommonPrefix,1800,8.633542,17229
+String QuickSort,Random,1800,1.488792,21060
+String QuickSort,ReverseSorted,1800,4.099541,61975
+String QuickSort,NearlySorted,1800,3.575667,53711
+String QuickSort,CommonPrefix,1800,1.978333,39630
+String MergeSort with LCP,Random,1800,35.231584,23895
+String MergeSort with LCP,ReverseSorted,1800,13.275042,15016
+String MergeSort with LCP,NearlySorted,1800,9.778334,19331
+String MergeSort with LCP,CommonPrefix,1800,18.550083,213408
+MSD Radix Sort,Random,1800,6.039333,4140
+MSD Radix Sort,ReverseSorted,1800,7.090542,4419
+MSD Radix Sort,NearlySorted,1800,6.930791,4322
+MSD Radix Sort,CommonPrefix,1800,67.566583,23870
+Hybrid MSD Radix Sort,Random,1800,1.326083,11697
+Hybrid MSD Radix Sort,ReverseSorted,1800,2.788166,33972
+Hybrid MSD Radix Sort,NearlySorted,1800,1.673583,17119
+Hybrid MSD Radix Sort,CommonPrefix,1800,22.968041,51227
+Standard QuickSort,Random,1900,13.439875,23524
+Standard QuickSort,ReverseSorted,1900,2.237125,17738
+Standard QuickSort,NearlySorted,1900,2.114708,17353
+Standard QuickSort,CommonPrefix,1900,3.807541,24472
+Standard MergeSort,Random,1900,7.857500,18303
+Standard MergeSort,ReverseSorted,1900,6.429458,10144
+Standard MergeSort,NearlySorted,1900,6.582667,14475
+Standard MergeSort,CommonPrefix,1900,22.563125,18296
+String QuickSort,Random,1900,21.760959,23108
+String QuickSort,ReverseSorted,1900,5.253292,66542
+String QuickSort,NearlySorted,1900,11.554125,59208
+String QuickSort,CommonPrefix,1900,2.429750,42113
+String MergeSort with LCP,Random,1900,10.704875,25575
+String MergeSort with LCP,ReverseSorted,1900,9.354375,16077
+String MergeSort with LCP,NearlySorted,1900,9.532125,20658
+String MergeSort with LCP,CommonPrefix,1900,20.777042,226742
+MSD Radix Sort,Random,1900,7.490375,4395
+MSD Radix Sort,ReverseSorted,1900,8.574792,4659
+MSD Radix Sort,NearlySorted,1900,7.904541,4547
+MSD Radix Sort,CommonPrefix,1900,23.102500,25217
+Hybrid MSD Radix Sort,Random,1900,1.358709,12476
+Hybrid MSD Radix Sort,ReverseSorted,1900,2.899458,35999
+Hybrid MSD Radix Sort,NearlySorted,1900,1.691875,18153
+Hybrid MSD Radix Sort,CommonPrefix,1900,23.725959,54278
+Standard QuickSort,Random,2000,2.640833,23819
+Standard QuickSort,ReverseSorted,2000,2.055833,18799
+Standard QuickSort,NearlySorted,2000,7.123875,18306
+Standard QuickSort,CommonPrefix,2000,21.710958,26757
+Standard MergeSort,Random,2000,12.889083,19394
+Standard MergeSort,ReverseSorted,2000,7.591125,10864
+Standard MergeSort,NearlySorted,2000,6.662875,14323
+Standard MergeSort,CommonPrefix,2000,11.317792,19411
+String QuickSort,Random,2000,2.215875,27262
+String QuickSort,ReverseSorted,2000,4.924834,72247
+String QuickSort,NearlySorted,2000,4.325250,65089
+String QuickSort,CommonPrefix,2000,2.309834,44868
+String MergeSort with LCP,Random,2000,10.127334,27146
+String MergeSort with LCP,ReverseSorted,2000,8.538542,17170
+String MergeSort with LCP,NearlySorted,2000,8.770750,20729
+String MergeSort with LCP,CommonPrefix,2000,19.319500,240622
+MSD Radix Sort,Random,2000,6.989625,4642
+MSD Radix Sort,ReverseSorted,2000,7.882958,4901
+MSD Radix Sort,NearlySorted,2000,7.456792,4789
+MSD Radix Sort,CommonPrefix,2000,21.490375,26571
+Hybrid MSD Radix Sort,Random,2000,1.374083,13276
+Hybrid MSD Radix Sort,ReverseSorted,2000,2.741917,37605
+Hybrid MSD Radix Sort,NearlySorted,2000,1.580125,19148
+Hybrid MSD Radix Sort,CommonPrefix,2000,21.101000,57324
+Standard QuickSort,Random,2100,3.078500,29382
+Standard QuickSort,ReverseSorted,2100,2.191209,19893
+Standard QuickSort,NearlySorted,2100,2.049708,19255
+Standard QuickSort,CommonPrefix,2100,2.898583,25757
+Standard MergeSort,Random,2100,7.246542,20462
+Standard MergeSort,ReverseSorted,2100,5.925041,11456
+Standard MergeSort,NearlySorted,2100,6.172791,15300
+Standard MergeSort,CommonPrefix,2100,10.372000,20542
+String QuickSort,Random,2100,1.843292,25925
+String QuickSort,ReverseSorted,2100,5.344083,81350
+String QuickSort,NearlySorted,2100,4.705083,70542
+String QuickSort,CommonPrefix,2100,2.342250,46924
+String MergeSort with LCP,Random,2100,10.665708,28767
+String MergeSort with LCP,ReverseSorted,2100,9.045667,17950
+String MergeSort with LCP,NearlySorted,2100,9.164209,22107
+String MergeSort with LCP,CommonPrefix,2100,20.082292,254737
+MSD Radix Sort,Random,2100,7.550334,4899
+MSD Radix Sort,ReverseSorted,2100,8.310917,5143
+MSD Radix Sort,NearlySorted,2100,7.738708,5028
+MSD Radix Sort,CommonPrefix,2100,22.554083,27923
+Hybrid MSD Radix Sort,Random,2100,1.355750,14112
+Hybrid MSD Radix Sort,ReverseSorted,2100,2.905708,39244
+Hybrid MSD Radix Sort,NearlySorted,2100,1.656250,20131
+Hybrid MSD Radix Sort,CommonPrefix,2100,22.401541,60472
+Standard QuickSort,Random,2200,3.164042,28792
+Standard QuickSort,ReverseSorted,2200,2.413583,20938
+Standard QuickSort,NearlySorted,2200,2.559625,20795
+Standard QuickSort,CommonPrefix,2200,2.880041,25848
+Standard MergeSort,Random,2200,7.348584,21637
+Standard MergeSort,ReverseSorted,2200,6.325959,11940
+Standard MergeSort,NearlySorted,2200,6.724625,16215
+Standard MergeSort,CommonPrefix,2200,11.642541,21655
+String QuickSort,Random,2200,1.867958,26455
+String QuickSort,ReverseSorted,2200,5.726542,86186
+String QuickSort,NearlySorted,2200,5.187625,75949
+String QuickSort,CommonPrefix,2200,2.477083,49403
+String MergeSort with LCP,Random,2200,11.283875,30499
+String MergeSort with LCP,ReverseSorted,2200,9.455166,18652
+String MergeSort with LCP,NearlySorted,2200,9.730042,23586
+String MergeSort with LCP,CommonPrefix,2200,21.608958,268649
+MSD Radix Sort,Random,2200,8.033208,5160
+MSD Radix Sort,ReverseSorted,2200,8.628375,5385
+MSD Radix Sort,NearlySorted,2200,8.018875,5272
+MSD Radix Sort,CommonPrefix,2200,22.830833,29298
+Hybrid MSD Radix Sort,Random,2200,1.422000,14958
+Hybrid MSD Radix Sort,ReverseSorted,2200,2.949083,41197
+Hybrid MSD Radix Sort,NearlySorted,2200,1.751041,21020
+Hybrid MSD Radix Sort,CommonPrefix,2200,23.247500,63485
+Standard QuickSort,Random,2300,3.325250,30609
+Standard QuickSort,ReverseSorted,2300,2.453875,22180
+Standard QuickSort,NearlySorted,2300,2.399292,22065
+Standard QuickSort,CommonPrefix,2300,3.591875,29052
+Standard MergeSort,Random,2300,7.894250,22776
+Standard MergeSort,ReverseSorted,2300,6.577583,12512
+Standard MergeSort,NearlySorted,2300,6.758834,17767
+Standard MergeSort,CommonPrefix,2300,11.861833,22832
+String QuickSort,Random,2300,2.069500,29496
+String QuickSort,ReverseSorted,2300,6.226750,93746
+String QuickSort,NearlySorted,2300,5.400750,81291
+String QuickSort,CommonPrefix,2300,2.675083,52877
+String MergeSort with LCP,Random,2300,11.785667,32226
+String MergeSort with LCP,ReverseSorted,2300,10.062917,19393
+String MergeSort with LCP,NearlySorted,2300,10.391708,25582
+String MergeSort with LCP,CommonPrefix,2300,22.949208,283381
+MSD Radix Sort,Random,2300,8.250458,5407
+MSD Radix Sort,ReverseSorted,2300,9.095000,5637
+MSD Radix Sort,NearlySorted,2300,8.413917,5501
+MSD Radix Sort,CommonPrefix,2300,24.901750,30666
+Hybrid MSD Radix Sort,Random,2300,1.494083,15844
+Hybrid MSD Radix Sort,ReverseSorted,2300,3.053500,42885
+Hybrid MSD Radix Sort,NearlySorted,2300,1.795542,21868
+Hybrid MSD Radix Sort,CommonPrefix,2300,25.901291,66662
+Standard QuickSort,Random,2400,3.286208,31042
+Standard QuickSort,ReverseSorted,2400,2.641250,23151
+Standard QuickSort,NearlySorted,2400,2.540458,23511
+Standard QuickSort,CommonPrefix,2400,3.619125,30674
+Standard MergeSort,Random,2400,8.170750,23940
+Standard MergeSort,ReverseSorted,2400,6.858208,13040
+Standard MergeSort,NearlySorted,2400,6.989708,18221
+Standard MergeSort,CommonPrefix,2400,12.027584,23963
+String QuickSort,Random,2400,2.118292,28511
+String QuickSort,ReverseSorted,2400,6.630166,99119
+String QuickSort,NearlySorted,2400,5.809500,86684
+String QuickSort,CommonPrefix,2400,2.891584,53943
+String MergeSort with LCP,Random,2400,12.278542,33916
+String MergeSort with LCP,ReverseSorted,2400,10.806208,20094
+String MergeSort with LCP,NearlySorted,2400,10.988917,26334
+String MergeSort with LCP,CommonPrefix,2400,23.291541,297489
+MSD Radix Sort,Random,2400,8.681791,5676
+MSD Radix Sort,ReverseSorted,2400,9.465750,5873
+MSD Radix Sort,NearlySorted,2400,8.744291,5739
+MSD Radix Sort,CommonPrefix,2400,29.000750,32030
+Hybrid MSD Radix Sort,Random,2400,1.571500,16639
+Hybrid MSD Radix Sort,ReverseSorted,2400,3.183959,44551
+Hybrid MSD Radix Sort,NearlySorted,2400,1.870958,22865
+Hybrid MSD Radix Sort,CommonPrefix,2400,30.298958,69582
+Standard QuickSort,Random,2500,3.271167,29308
+Standard QuickSort,ReverseSorted,2500,2.920250,24330
+Standard QuickSort,NearlySorted,2500,2.662166,24830
+Standard QuickSort,CommonPrefix,2500,3.598542,31693
+Standard MergeSort,Random,2500,9.375250,25094
+Standard MergeSort,ReverseSorted,2500,7.606416,13652
+Standard MergeSort,NearlySorted,2500,7.470125,19450
+Standard MergeSort,CommonPrefix,2500,12.344167,25081
+String QuickSort,Random,2500,2.210583,31230
+String QuickSort,ReverseSorted,2500,7.212542,107252
+String QuickSort,NearlySorted,2500,6.260250,93478
+String QuickSort,CommonPrefix,2500,2.846583,56701
+String MergeSort with LCP,Random,2500,12.976875,35688
+String MergeSort with LCP,ReverseSorted,2500,10.754041,21202
+String MergeSort with LCP,NearlySorted,2500,11.264292,28102
+String MergeSort with LCP,CommonPrefix,2500,25.068583,311513
+MSD Radix Sort,Random,2500,9.155042,5942
+MSD Radix Sort,ReverseSorted,2500,9.707250,6119
+MSD Radix Sort,NearlySorted,2500,9.075291,5988
+MSD Radix Sort,CommonPrefix,2500,34.506375,33387
+Hybrid MSD Radix Sort,Random,2500,1.670250,17508
+Hybrid MSD Radix Sort,ReverseSorted,2500,3.316958,46470
+Hybrid MSD Radix Sort,NearlySorted,2500,1.934458,23673
+Hybrid MSD Radix Sort,CommonPrefix,2500,31.191500,72693
+Standard QuickSort,Random,2600,3.694375,33735
+Standard QuickSort,ReverseSorted,2600,2.893916,25593
+Standard QuickSort,NearlySorted,2600,3.031792,25909
+Standard QuickSort,CommonPrefix,2600,3.555625,31887
+Standard MergeSort,Random,2600,9.266959,26256
+Standard MergeSort,ReverseSorted,2600,7.468791,14260
+Standard MergeSort,NearlySorted,2600,7.913625,20016
+Standard MergeSort,CommonPrefix,2600,13.397167,26247
+String QuickSort,Random,2600,2.411000,34271
+String QuickSort,ReverseSorted,2600,7.606000,115149
+String QuickSort,NearlySorted,2600,6.652500,99245
+String QuickSort,CommonPrefix,2600,2.976458,59321
+String MergeSort with LCP,Random,2600,13.425542,37393
+String MergeSort with LCP,ReverseSorted,2600,11.221917,22020
+String MergeSort with LCP,NearlySorted,2600,11.670416,29138
+String MergeSort with LCP,CommonPrefix,2600,26.197125,326092
+MSD Radix Sort,Random,2600,9.604334,6223
+MSD Radix Sort,ReverseSorted,2600,10.101167,6354
+MSD Radix Sort,NearlySorted,2600,9.561459,6243
+MSD Radix Sort,CommonPrefix,2600,26.669958,34746
+Hybrid MSD Radix Sort,Random,2600,1.755666,18342
+Hybrid MSD Radix Sort,ReverseSorted,2600,3.472375,48301
+Hybrid MSD Radix Sort,NearlySorted,2600,2.006541,24576
+Hybrid MSD Radix Sort,CommonPrefix,2600,32.560250,75804
+Standard QuickSort,Random,2700,3.753417,34365
+Standard QuickSort,ReverseSorted,2700,2.983458,26783
+Standard QuickSort,NearlySorted,2700,3.460125,27530
+Standard QuickSort,CommonPrefix,2700,3.743292,33449
+Standard MergeSort,Random,2700,9.179250,27417
+Standard MergeSort,ReverseSorted,2700,7.839583,14840
+Standard MergeSort,NearlySorted,2700,8.163166,21389
+Standard MergeSort,CommonPrefix,2700,14.224500,27427
+String QuickSort,Random,2700,2.461292,34936
+String QuickSort,ReverseSorted,2700,7.984750,120998
+String QuickSort,NearlySorted,2700,6.305166,94923
+String QuickSort,CommonPrefix,2700,3.139666,62476
+String MergeSort with LCP,Random,2700,13.883625,39136
+String MergeSort with LCP,ReverseSorted,2700,11.781792,22888
+String MergeSort with LCP,NearlySorted,2700,12.569083,30792
+String MergeSort with LCP,CommonPrefix,2700,26.775209,340839
+MSD Radix Sort,Random,2700,10.064459,6488
+MSD Radix Sort,ReverseSorted,2700,10.524208,6598
+MSD Radix Sort,NearlySorted,2700,10.037625,6497
+MSD Radix Sort,CommonPrefix,2700,30.528292,36119
+Hybrid MSD Radix Sort,Random,2700,1.800500,19284
+Hybrid MSD Radix Sort,ReverseSorted,2700,3.581333,50292
+Hybrid MSD Radix Sort,NearlySorted,2700,2.044083,25401
+Hybrid MSD Radix Sort,CommonPrefix,2700,30.246292,78878
+Standard QuickSort,Random,2800,4.029000,37011
+Standard QuickSort,ReverseSorted,2800,3.047708,27823
+Standard QuickSort,NearlySorted,2800,3.329750,28734
+Standard QuickSort,CommonPrefix,2800,4.160959,37063
+Standard MergeSort,Random,2800,9.924084,28571
+Standard MergeSort,ReverseSorted,2800,8.127417,15488
+Standard MergeSort,NearlySorted,2800,8.241334,22075
+Standard MergeSort,CommonPrefix,2800,15.383542,28557
+String QuickSort,Random,2800,2.459000,34495
+String QuickSort,ReverseSorted,2800,8.557375,129290
+String QuickSort,NearlySorted,2800,6.587458,99218
+String QuickSort,CommonPrefix,2800,3.170750,63086
+String MergeSort with LCP,Random,2800,14.719917,40896
+String MergeSort with LCP,ReverseSorted,2800,12.124250,23716
+String MergeSort with LCP,NearlySorted,2800,13.092667,31874
+String MergeSort with LCP,CommonPrefix,2800,27.684459,354969
+MSD Radix Sort,Random,2800,10.525542,6754
+MSD Radix Sort,ReverseSorted,2800,10.935167,6836
+MSD Radix Sort,NearlySorted,2800,10.379625,6734
+MSD Radix Sort,CommonPrefix,2800,44.946500,37486
+Hybrid MSD Radix Sort,Random,2800,1.890625,20065
+Hybrid MSD Radix Sort,ReverseSorted,2800,3.728792,52133
+Hybrid MSD Radix Sort,NearlySorted,2800,2.098833,26323
+Hybrid MSD Radix Sort,CommonPrefix,2800,32.949333,82032
+Standard QuickSort,Random,2900,3.985458,36982
+Standard QuickSort,ReverseSorted,2900,3.213334,29039
+Standard QuickSort,NearlySorted,2900,3.200083,29952
+Standard QuickSort,CommonPrefix,2900,4.071917,37452
+Standard MergeSort,Random,2900,10.410084,29697
+Standard MergeSort,ReverseSorted,2900,8.491416,16120
+Standard MergeSort,NearlySorted,2900,8.808458,22553
+Standard MergeSort,CommonPrefix,2900,15.137625,29742
+String QuickSort,Random,2900,2.654750,37459
+String QuickSort,ReverseSorted,2900,9.170333,138383
+String QuickSort,NearlySorted,2900,6.884250,103776
+String QuickSort,CommonPrefix,2900,3.425334,67681
+String MergeSort with LCP,Random,2900,15.378250,42676
+String MergeSort with LCP,ReverseSorted,2900,12.673125,24875
+String MergeSort with LCP,NearlySorted,2900,13.071333,32704
+String MergeSort with LCP,CommonPrefix,2900,29.817542,369754
+MSD Radix Sort,Random,2900,10.949792,7015
+MSD Radix Sort,ReverseSorted,2900,11.260250,7076
+MSD Radix Sort,NearlySorted,2900,10.646042,6967
+MSD Radix Sort,CommonPrefix,2900,39.611417,38852
+Hybrid MSD Radix Sort,Random,2900,1.945750,21016
+Hybrid MSD Radix Sort,ReverseSorted,2900,3.848417,53923
+Hybrid MSD Radix Sort,NearlySorted,2900,2.188834,27245
+Hybrid MSD Radix Sort,CommonPrefix,2900,32.058834,85212
+Standard QuickSort,Random,3000,4.308167,39140
+Standard QuickSort,ReverseSorted,3000,3.311958,30089
+Standard QuickSort,NearlySorted,3000,3.395500,31105
+Standard QuickSort,CommonPrefix,3000,4.110542,37544
+Standard MergeSort,Random,3000,10.928083,30942
+Standard MergeSort,ReverseSorted,3000,8.818125,16828
+Standard MergeSort,NearlySorted,3000,8.882875,23281
+Standard MergeSort,CommonPrefix,3000,16.860750,30922
+String QuickSort,Random,3000,2.775208,39354
+String QuickSort,ReverseSorted,3000,9.767125,147258
+String QuickSort,NearlySorted,3000,7.220916,108741
+String QuickSort,CommonPrefix,3000,3.578458,70468
+String MergeSort with LCP,Random,3000,15.532417,44529
+String MergeSort with LCP,ReverseSorted,3000,12.975875,25854
+String MergeSort with LCP,NearlySorted,3000,13.956417,33630
+String MergeSort with LCP,CommonPrefix,3000,30.937959,384582
+MSD Radix Sort,Random,3000,11.898917,7293
+MSD Radix Sort,ReverseSorted,3000,11.692000,7324
+MSD Radix Sort,NearlySorted,3000,11.069166,7208
+MSD Radix Sort,CommonPrefix,3000,47.896750,40228
+Hybrid MSD Radix Sort,Random,3000,2.097917,21887
+Hybrid MSD Radix Sort,ReverseSorted,3000,4.005083,55762
+Hybrid MSD Radix Sort,NearlySorted,3000,2.252750,28223
+Hybrid MSD Radix Sort,CommonPrefix,3000,33.627583,88238
